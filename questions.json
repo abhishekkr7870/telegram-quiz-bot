@@ -1,1 +1,12 @@
-
+[
+  {
+    "question": "Who led the Salt March in 1930?",
+    "options": ["Nehru", "Bose", "Gandhi", "Tilak"],
+    "answer": 2
+  },
+  {
+    "question": "When was the Quit India Movement launched?",
+    "options": ["1930", "1942", "1919", "1947"],
+    "answer": 1
+  }
+]
